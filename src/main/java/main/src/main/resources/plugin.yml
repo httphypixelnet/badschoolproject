@@ -1,0 +1,4 @@
+name: main
+version: "1.0-SNAPSHOT"
+author: httphypixelnet
+main: seth.isbad.MyPlugin
